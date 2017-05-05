@@ -1,0 +1,4 @@
+BeautifulSoup 4.4.1
+requests 2.11.1
+numpy 1.12.1
+pandas 0.20.0
